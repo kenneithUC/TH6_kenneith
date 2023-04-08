@@ -1,0 +1,12 @@
+C:\Users\ROG\source\repos\TH week 6 kenneith\TH week 6 kenneith\bin\Debug\TH week 6 kenneith.exe.config
+C:\Users\ROG\source\repos\TH week 6 kenneith\TH week 6 kenneith\bin\Debug\TH week 6 kenneith.exe
+C:\Users\ROG\source\repos\TH week 6 kenneith\TH week 6 kenneith\bin\Debug\TH week 6 kenneith.pdb
+C:\Users\ROG\source\repos\TH week 6 kenneith\TH week 6 kenneith\obj\Debug\TH week 6 kenneith.csproj.AssemblyReference.cache
+C:\Users\ROG\source\repos\TH week 6 kenneith\TH week 6 kenneith\obj\Debug\TH week 6 kenneith.csproj.SuggestedBindingRedirects.cache
+C:\Users\ROG\source\repos\TH week 6 kenneith\TH week 6 kenneith\obj\Debug\TH_week_6_kenneith.Form1.resources
+C:\Users\ROG\source\repos\TH week 6 kenneith\TH week 6 kenneith\obj\Debug\TH_week_6_kenneith.Properties.Resources.resources
+C:\Users\ROG\source\repos\TH week 6 kenneith\TH week 6 kenneith\obj\Debug\TH week 6 kenneith.csproj.GenerateResource.cache
+C:\Users\ROG\source\repos\TH week 6 kenneith\TH week 6 kenneith\obj\Debug\TH week 6 kenneith.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\TH week 6 kenneith\TH week 6 kenneith\obj\Debug\TH week 6 kenneith.exe
+C:\Users\ROG\source\repos\TH week 6 kenneith\TH week 6 kenneith\obj\Debug\TH week 6 kenneith.pdb
+C:\Users\ROG\source\repos\TH week 6 kenneith\TH week 6 kenneith\obj\Debug\TH_week_6_kenneith.Form2.resources
